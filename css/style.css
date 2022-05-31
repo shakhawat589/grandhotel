@@ -496,3 +496,57 @@ body {
 }
 
 /* End of Room Section */
+
+
+/* Customer Section */
+.customers{
+  margin-left: 8rem;
+  padding-bottom: 7rem;
+  background-color: #15141b;
+}
+
+.customer-paragraph{
+  font-size: 1.8rem;
+  width: 50%;
+  color: #ddd;
+  margin: 2rem auto 8rem auto;
+  text-align: center;
+}
+
+.customer-card-wrapper{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.customer-card{
+  width: 60rem;
+  background-color: #eee;
+  display: flex;
+}
+
+.customer-image-wrapper{
+  margin: auto 0;
+}
+
+.customer-image{
+  width: 20rem;
+  margin-left: -1.3rem;
+}
+.customer-info{
+  padding: 0 2rem;
+}
+.customer-fullname{
+  font-size: 2rem;
+  font-weight: 300;
+  margin-bottom: 0;
+}
+.customer-paragraph-1{
+  font-size: 1.2rem;
+  font-style: italic;
+  color: #b85d1c;
+}
+.customer-paragraph-2{
+  font-size: 1.3rem;
+  font-style: italic;
+}
+/*End of Customer Section */
